@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1239666353.svg)](https://doi.org/10.5281/zenodo.20210500)
 # Quantum Metabolomics Classification 🧬💻
 
 This repository contains the code and results for a project exploring the use of **Quantum Support Vector Machines (QSVM)** for classifying metabolomics data from mouse brain samples to predict Sex (Male vs. Female).
