@@ -18,7 +18,7 @@ Ran on the real **IBM Quantum** 156-qubit processor (`ibm_fez`):
 ### 2. The Scale & Noise Test (150 Samples)
 Ran on the real **IBM Quantum** 127-qubit processor (`ibm_marrakesh`):
 * **Simulator Accuracy:** 96.67% (Tied with Classical)
-* **Real Hardware Accuracy:** **93.33%**
+* **Real Hardware Accuracy:** **93.33%** (Reduced due to noise)
 
 ---
 
