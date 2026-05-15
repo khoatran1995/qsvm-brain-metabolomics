@@ -82,3 +82,6 @@ After comparing `ZFeatureMap`, `ZZFeatureMap (linear/circular)`, and `PauliFeatu
 
 ## 🎓 About
 This project was developed by **Khoa Tran** to demonstrate the feasibility of applying Quantum Machine Learning to metabolomics data from mouse brain samples for Sex classification.
+
+## 📚 Data Source
+The features were analyzed from the experimental dataset from the 2021 mouse brain metabolome atlas, available via the Metabolomics Workbench database (study ID: ST001637).
